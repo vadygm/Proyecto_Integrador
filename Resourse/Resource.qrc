@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>add-file (1).png</file>
+        <file>attach.png</file>
+        <file>documents.png</file>
+        <file>download.png</file>
+        <file>exam2.png</file>
+        <file>growth (1).png</file>
+        <file>growth.png</file>
+        <file>letter.png</file>
+        <file>new.png</file>
+        <file>Resource.qrc</file>
+        <file>save-file.png</file>
+        <file>settings-gears-blanco.png</file>
+        <file>shotweif-Icon-User1.png</file>
+        <file>shotweif-Icon-User2.png</file>
+        <file>shotweif-Icon-User3.png</file>
+        <file>shotweif-Icon-User4.png</file>
+        <file>shotweif-Icon-User5.png</file>
+        <file>shotweif-Icon-User6.png</file>
+        <file>tree-of-rectangles-foliage-blanco.png</file>
+        <file>users.png</file>
+    </qresource>
+</RCC>

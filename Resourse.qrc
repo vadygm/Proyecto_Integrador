@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/ProgramIcon">
+        <file>Resourse/add-file (1).png</file>
+        <file>Resourse/attach.png</file>
+        <file>Resourse/documents.png</file>
+        <file>Resourse/download.png</file>
+        <file>Resourse/exam2.png</file>
+        <file>Resourse/growth (1).png</file>
+        <file>Resourse/growth.png</file>
+        <file>Resourse/letter.png</file>
+        <file>Resourse/new.png</file>
+        <file>Resourse/notes.png</file>
+        <file>Resourse/save-file.png</file>
+        <file>Resourse/settings-gears-blanco.png</file>
+        <file>Resourse/shotweif-Icon-User1.png</file>
+        <file>Resourse/shotweif-Icon-User2.png</file>
+        <file>Resourse/shotweif-Icon-User3.png</file>
+        <file>Resourse/shotweif-Icon-User4.png</file>
+        <file>Resourse/shotweif-Icon-User5.png</file>
+        <file>Resourse/shotweif-Icon-User6.png</file>
+        <file>Resourse/tree-of-rectangles-foliage-blanco.png</file>
+        <file>Resourse/users.png</file>
+        <file>Resourse/cancel.png</file>
+        <file>Resourse/descargar (1).png</file>
+        <file>Resourse/descargar.png</file>
+        <file>Resourse/descargar-archivo.png</file>
+        <file>Resourse/information.png</file>
+        <file>Resourse/picture.png</file>
+        <file>Resourse/warning.png</file>
+        <file>Resourse/zip-folder.png</file>
+        <file>Resourse/ajuste.png</file>
+        <file>Resourse/easel.png</file>
+        <file>Resourse/grafico.png</file>
+    </qresource>
+</RCC>
